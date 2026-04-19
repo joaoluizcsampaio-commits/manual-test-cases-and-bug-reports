@@ -61,6 +61,9 @@ It demonstrates practical knowledge of:
 
 ---
 
+## Evidence
+![Map Bug](./images/map-bug.png)
+
 ## Author
 
 João Coutinho Sampaio
